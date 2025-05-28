@@ -3,3 +3,4 @@ the brown fox jump over the lazy dog.
 
 
 add another marketing message section.
+add footer note
